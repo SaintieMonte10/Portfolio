@@ -21,7 +21,7 @@ nav li{
     color: white;
 }
 ul{
-    list-style-type: none;
+    /* list-style-type: none; */
     padding-top: 8px;
     padding-bottom: 10px;
 }
@@ -34,5 +34,4 @@ li a{
 }
 
 /* Styling image */
-
 
