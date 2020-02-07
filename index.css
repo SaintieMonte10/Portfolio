@@ -1,18 +1,38 @@
+/* styling body */
+
+body{
+    background-color: rgb(32, 29, 29);
+    color: white;
+    font-size: x-large;
+}
+
+/*styling nav bar*/
+
 nav{
     background-color: black;
     text-align: center;
     margin: auto;
+    width: 100%;
+    position: fixed;
 }
 nav li{
     display: inline;
     font-weight: bolder;
+    color: white;
 }
 ul{
     list-style-type: none;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 8px;
+    padding-bottom: 10px;
 }
 nav ul a{
     display: inline;
     padding: 40px 40px;
 }
+li a{
+    color: white;
+}
+
+/* Styling image */
+
+
