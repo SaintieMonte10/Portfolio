@@ -16,32 +16,41 @@ nav{
     position: fixed;
     top: 0;
 }
+
 nav li{
     display: inline;
     font-weight: bolder;
     color: white;
 }
+
 ul{
     padding-top: 8px;
     padding-bottom: 10px;
 }
+
 nav ul a{
     display: inline;
     padding: 40px 40px;
-} 
+}
+
 nav ul li a:hover{
     background-color: royalblue;
 }
+
 li a{
     color: white;
 }
+
 h4{
     color: red;
 }
+
 h3{
     text-decoration: underline;
 }
-/* Styling image */
+
+/* Styling my projects*/
+
 #view{
     text-align: center;
     margin: 80px 0;
@@ -52,10 +61,16 @@ h3{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 25px;
 }
+
 div.container {
     text-align: center;
     padding: 10px 20px;
-  }
+}
+
+.container p{
+    color: black;
+}
+
 #help{
     text-align: center;
     margin: 80px 0;
@@ -66,11 +81,11 @@ div.container {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 25px;
 }
-div.empower {
+
+div.empower{
     text-align: center;
     padding: 10px 20px;
-  }
-  
+}
 
 #view li{
     width: 30%;
@@ -78,15 +93,12 @@ div.empower {
     margin: 15px 2%;
 }
 
-#view li a{
-    color: blue;
+.empower p{
+    color:white;
 }
 
-/* Styling About page */
-
-/* Styling My projects page */
-
 /* styling contacts page */
+
 #contacts{
     background-color:black;
     width: 100%;
