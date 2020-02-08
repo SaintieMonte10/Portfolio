@@ -13,12 +13,12 @@ This is my personal portfolio website.It contains details about me, my projects,
 * open terminal(CTRL+ALT+T)
 * git clone
 * cd Portfolio
-* use aton or code
+* use atom or code
 
-# Live link
+## Live link
  https://saintiemonte10.github.io/Portfolio/deta
 
-# Licence
+## Licence
 MIT License
 
 Copyright (c) [2020] [Clare Richrds]
