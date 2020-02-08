@@ -52,6 +52,9 @@ h3{
     display: inline-block;
     margin: 15px 2%;
 }
+#view li a{
+    color: blue;
+}
 
 /* Styling About page */
 
@@ -61,7 +64,7 @@ h3{
 #contacts{
     background-color: rgb(34, 33, 33);
     width: 100%;
-    height: 100%;
+    height: 300px
 }
 .info{
     float: left;
