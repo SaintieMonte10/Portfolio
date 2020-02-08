@@ -16,6 +16,6 @@ This is my personal portfolio website.It contains details about me, my projects,
 * use aton or code
 
 # Live link
- https://saintiemonte10.github.io/Portfolio/
+ https://saintiemonte10.github.io/Portfolio/deta
 
 
