@@ -16,7 +16,7 @@ This is my personal portfolio website.It contains details about me, my projects,
 * use atom or code
 
 ## Live Link
- https://saintiemonte10.github.io/Portfolio/deta
+ https://saintiemonte10.github.io/Portfolio/
 
  ## Technologies used
 html
