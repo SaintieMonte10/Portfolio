@@ -15,8 +15,12 @@ This is my personal portfolio website.It contains details about me, my projects,
 * cd Portfolio
 * use atom or code
 
-## Live link
+## Live Link
  https://saintiemonte10.github.io/Portfolio/deta
+
+ ## Technologies used
+html
+css
 
 ## Licence
 MIT License
